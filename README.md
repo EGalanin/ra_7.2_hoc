@@ -1,6 +1,6 @@
 Подсвечивание блоков
 
-![CI](https://github.com/EGalanin/ra_7.2_hoc/actions/workflows/web.yml/badge.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/9448cajcau2x0au5?svg=true)](https://ci.appveyor.com/project/EGalanin/ra-7-2-hoc)
 
 [Github Pages](https://egalanin.github.io/ra_7.2_hoc/ "Ссылка на Github Pages")
 
